@@ -1,4 +1,4 @@
-# table-test
+# fixed-x-scroll
 
 ## Project setup
 ```
